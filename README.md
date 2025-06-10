@@ -16,10 +16,12 @@ The full dataset contains **1,348 images** across four emotion categories: `alar
 The original dataset used in our experiment is publicly available at:  
 [Roboflow Dataset Link](https://universe.roboflow.com/mubbarryz/domestic-cats-facial-expressions/dataset/4)
 
+or you can directly download our organized_cat_dataset.zip that is already included in this repository.
+
 ### 📁 Custom Dataset (manual 70/15/15 split)
 We also created a custom-split version of the dataset (70% train, 15% validation, 15% test) to better control class distribution and test performance differences.
 
-📥 The file manual_cat_dataset.zip is already included in this repository under the datasets/ folder.
+The file manual_cat_dataset.zip is already included in this repository.
 
 ---
 
